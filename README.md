@@ -2,7 +2,8 @@
 # [CurrencyConverter](https://currency-converter-masai.vercel.app//)
 - The Currency Converter app is a modern and elegant tool designed to facilitate easy and accurate currency conversions. Built with React and Material-UI (MUI), the app offers a user-friendly interface with a dark theme and a vibrant gradient background. This application is perfect for anyone needing quick currency conversions.
 
-![curr](https://github.com/heyyrahul/CurrencyConverter/assets/79692865/3e6eb80e-bb08-41fc-b788-f8e1f92637fa)
+![currency](https://github.com/heyyrahul/CurrencyConverter/assets/79692865/81ee1099-9c0b-44cc-bced-317f3a6de501)
+
 
 
 ## Directory Structure
