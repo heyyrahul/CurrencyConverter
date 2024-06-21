@@ -69,7 +69,7 @@ const CurrencyConverter = () => {
   };
 
   return (
-    <Paper elevation={3} style={{ padding: '20px', marginTop: '20px', backgroundColor: 'rgba(30, 30, 30, 0.8)' }}>
+    <Paper elevation={3} style={{ padding: '20px', marginTop: '20px', backgroundColor: 'rgba(30, 30, 30, 0.5)' }}>
       <Grid container spacing={3} alignItems="center">
         <Grid item xs={12} md={5}>
           <CurrencySelect
