@@ -9,15 +9,15 @@ function App() {
       <CssBaseline />
       <div style={{ background: 'linear-gradient(to right, #6a11cb, #2575fc, #f953c6)', minHeight: '100vh' }}>
         <AppBar position="static">
-          <Toolbar>
-            <Typography variant="h6" style={{ flexGrow: 1, color: '#646cffaa' }} >
+          <Toolbar  >
+            <Typography variant="h6" style={{ flexGrow: 1, color: '#646cffaa'}} >
               Currency Converter
             </Typography>
           </Toolbar>
         </AppBar>
         <Container>
           <Typography variant="h4" gutterBottom style={{ marginTop: '20px', textAlign: 'center' }}>
-            Convert Currencies with Ease
+            Convert Currencies With Ease
           </Typography>
           <CurrencyConverter />
         </Container>
